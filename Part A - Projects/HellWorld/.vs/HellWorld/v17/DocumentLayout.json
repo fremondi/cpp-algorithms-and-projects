@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Francesco\\OneDrive\\Desktop\\Extra Courses and Certifications\\C\u002B\u002B\\Projects\\HellWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E8D0B0-930C-46A2-8701-75634978E5E4}|HellWorld.vcxproj|C:\\Users\\Francesco\\OneDrive\\Desktop\\Extra Courses and Certifications\\C\u002B\u002B\\Projects\\HellWorld\\HellWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2E8D0B0-930C-46A2-8701-75634978E5E4}|HellWorld.vcxproj|solutionrelative:HellWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HellWorld.cpp",
+              "DocumentMoniker": "C:\\Users\\Francesco\\OneDrive\\Desktop\\Extra Courses and Certifications\\C\u002B\u002B\\Projects\\HellWorld\\HellWorld.cpp",
+              "RelativeDocumentMoniker": "HellWorld.cpp",
+              "ToolTip": "C:\\Users\\Francesco\\OneDrive\\Desktop\\Extra Courses and Certifications\\C\u002B\u002B\\Projects\\HellWorld\\HellWorld.cpp",
+              "RelativeToolTip": "HellWorld.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-16T11:22:24.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

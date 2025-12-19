@@ -1,0 +1,3 @@
+﻿  AdjacencyMatrixGraph.cpp
+C:\Users\Francesco\OneDrive\Desktop\Extra Courses and Certifications\C++\Projects\AdjacencyMatrixGraph\AdjacencyMatrixGraph.cpp(68,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  AdjacencyMatrixGraph.vcxproj -> C:\Users\Francesco\OneDrive\Desktop\Extra Courses and Certifications\C++\Projects\AdjacencyMatrixGraph\x64\Debug\AdjacencyMatrixGraph.exe

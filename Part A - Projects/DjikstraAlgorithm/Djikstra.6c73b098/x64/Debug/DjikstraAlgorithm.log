@@ -1,0 +1,5 @@
+﻿  DjikstraAlgorithm.cpp
+C:\Users\Francesco\OneDrive\Desktop\Extra Courses and Certifications\C++\Projects\DjikstraAlgorithm\DjikstraAlgorithm.cpp(58,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Francesco\OneDrive\Desktop\Extra Courses and Certifications\C++\Projects\DjikstraAlgorithm\DjikstraAlgorithm.cpp(64,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Francesco\OneDrive\Desktop\Extra Courses and Certifications\C++\Projects\DjikstraAlgorithm\DjikstraAlgorithm.cpp(202,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  DjikstraAlgorithm.vcxproj -> C:\Users\Francesco\OneDrive\Desktop\Extra Courses and Certifications\C++\Projects\DjikstraAlgorithm\x64\Debug\DjikstraAlgorithm.exe
