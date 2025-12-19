@@ -3,3 +3,10 @@
 *.exe
 build/
 cmake-build-*/
+# Visual Studio / VS cache
+.vs/
+**/.vs/
+*.ipch
+**/ipch/
+*.VC.db
+*.VC.VC.opendb
